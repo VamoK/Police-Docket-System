@@ -19,4 +19,5 @@
   <li><b>Java</b>(Core, EJB, JPA, JPQL, JSP)</li>
   <li><b>Derby Database</b></li>
   <li><b>GlassFish</b>(server)</li>
+  <li><b>HTML & CSS</b></li>
 </ol>
