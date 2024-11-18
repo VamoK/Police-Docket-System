@@ -13,3 +13,10 @@
     <p>Only administrators have the authority to retrieve dockets. This restriction enhances data security and simplifies monitoring access to sensitive information.</p>
   </li>
 </ol>
+
+<h3>Technologies Used</h3>
+<ol>
+  <li>Java(Core, EJB, JPA, JPQL, JSP)</li>
+  <li>Derby Database</li>
+  <li>GlassFish(server)</li>
+</ol>
