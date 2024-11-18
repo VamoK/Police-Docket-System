@@ -16,7 +16,7 @@
 
 <h3>Technologies Used</h3>
 <ol>
-  <li>Java(Core, EJB, JPA, JPQL, JSP)</li>
-  <li>Derby Database</li>
-  <li>GlassFish(server)</li>
+  <li><b>Java</b>(Core, EJB, JPA, JPQL, JSP)</li>
+  <li><b>Derby Database</b></li>
+  <li><b>GlassFish</b>(server)</li>
 </ol>
